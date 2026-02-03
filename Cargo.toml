@@ -1,0 +1,8 @@
+[package]
+name = "kryptos-vault-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = "1.0"
+ring = "0.17"
